@@ -1,4 +1,4 @@
-[//]: # (Image References)
+﻿[//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
@@ -26,8 +26,8 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/anubhavshrimal/CNN-Dog-Breed-Classifier.git
-		cd CNN-Dog-Breed-Classifier/
+		git clone https://github.com/Navneetkr870/Dog-Breed-Classifier-Udacity.git
+		cd Dog-Breed-Classifier-Udacity/
 	```
 2. Install required dependencies using:
 ```
